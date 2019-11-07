@@ -1,5 +1,6 @@
 # Resume-Builder
-A React App that generates Resume of the person using Node And Firebase. it uses particle JS, React-Spring, React-with-gesture and css transition for animation. For generating pdf axios and filesaver have been used in front-end and html-pdf and express in the backend. For Authentication, Firebase has been employed.
+
+A React App that generates Resume of the person using Node And Firebase. It uses particle JS, React-Spring, React-with-gesture and css transition for animation. For generating pdf axios and filesaver have been used in front-end and html-pdf and express in the backend. For Authentication, Firebase has been employed.
 
 Upcoming Changes: Template Authenticated and more Detailed Resumes
 
